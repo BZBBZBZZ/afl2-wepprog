@@ -541,7 +541,7 @@ footer {
     }
 
     aside {
-        align-self: center !important; 
+        align-self: center; 
         width: 100%; 
         margin: auto; 
         position: static; 
